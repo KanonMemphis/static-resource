@@ -1,0 +1,9 @@
+@font-face {
+    font-family: "NowarRounded";
+    src: url('../../assets/font/NowarRounded.woff2') format("woff2");
+}
+
+@font-face {
+    font-family: "CascadiaCode";
+    src: url('../../assets/font/CascadiaCode.woff2') format("woff2");
+}
